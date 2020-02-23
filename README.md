@@ -10,3 +10,7 @@ A simple implemenation of the 5-number summary in statistics:
 
 ## hw3
 Pandas exercise to get familar with querying data using dataframes
+
+## hw4
+Data manipulation exercise with a coronovirus open dataset
+Taken from https://www.kaggle.com/brendaso/2019-coronavirus-dataset-01212020-01262020
