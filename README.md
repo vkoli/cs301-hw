@@ -13,3 +13,6 @@ Taken from https://www.kaggle.com/brendaso/2019-coronavirus-dataset-01212020-012
 
 ## hw5
 Data visualization and critique exercise using a sample student dataset and matplotlib
+
+## hw6
+Practice setting up data for machine learning
